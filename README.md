@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Chung Wai Kei, a year 1 AIST student in CUHK! I’m currently learning how to use GitHub in AIST2602!
+:smile::smile::smile::smile::smile:
 
 <!--
 **wk-chung/wk-chung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
